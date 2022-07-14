@@ -21,3 +21,21 @@ https://dacon.io/competitions/official/235914/overview/schedule
   - 목적
     * 금융 뉴스 및 주식관련 SNS 감성 분석을 통해 주가 변화를 분석하고, 이를 기반으로 주가 예측 모델 개발
     * 주가 예측 모델 개발을 통해 금융시장 참여자들에게 유용한 정보를 제공할수 있도록 함
+
+- 활용 데이터
+
+  - 자연어 데이터: 네이버 및 다음 증권분류 뉴스 기사, 종목 토론방, 유튜브
+  - 기업 및 주가 데이터 : KRX 종목정보 및 거래 실적
+
+- 모델 설명
+
+  - [Model 1] SP based Logistic Regression
+  - [Model 2] SP based LSTM (binary)
+  - [Model 3] SP based KlueBERT
+  - [Model 4] SP based LSTM (multi)
+  - [Model 5] Word based Logistic Regression
+  - [Model 6] Word based LSTM
+  - [Model 7] Word based KlueBERT
+  - [Model 8] Customized Sentimental Dict based LSTM
+  - [Model 9] Customized Sentimental Dict based Logistic Regression
+  - [Model 10] Customized Sentimental Dict based KR-FinBERT
