@@ -6,9 +6,9 @@ https://dacon.io/competitions/official/235914/overview/schedule
 
 - 개발 프로세스
 
-크롤링을 통한 자연어 데이터 수집
+  *크롤링을 통한 자연어 데이터 수집
 
-수집 데이터 전처리
+  *수집 데이터 전처리
 
 감정 분석을 위한 자연어 분석모델 개발
 
